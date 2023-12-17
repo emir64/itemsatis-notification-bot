@@ -1,0 +1,16 @@
+{
+  "name": "itemsatis-siparis-log",
+  "version": "2.0.0",
+  "description": "Developed By Belux",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Belux17",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}
