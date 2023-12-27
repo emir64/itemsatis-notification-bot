@@ -9,8 +9,9 @@
   "author": "Belux17",
   "license": "Apache-2.0",
   "dependencies": {
+    "better-sqlite3": "^9.2.2",
     "discord.js": "^14.14.1",
-    "mongoose": "^8.0.3",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "quick.db": "^9.1.7"
   }
 }
